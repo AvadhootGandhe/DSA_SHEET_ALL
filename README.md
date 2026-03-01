@@ -1,3 +1,5 @@
+This document contains a curated list of widely used and trusted DSA practice sheets for coding interviews and software development role preparation. These resources are popular among students and professionals preparing for SDE roles, internships, and competitive programming.
+
 1. Striver – A2Z DSA Course Sheet
 A comprehensive, step-by-step roadmap covering Data Structures and Algorithms from basic to advanced levels. Ideal for structured learning and concept building.
 Link:
